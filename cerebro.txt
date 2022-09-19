@@ -1,0 +1,36 @@
+Temario de la asignatura=1. Introducción a la Teoría General de Sistemas y al Pensamiento Sistémico
+1.1. Pensamiento Sistémico
+1.2. Teoría General de Sistemas
+1.3. Visión sistémica para la resolución de problemas
+2. Introducción a la Inteligencia Artificial
+2.1. Historia y definición. Test de Turing. TTT
+2.2. Dato, Información, Conocimiento
+2.3. Representación del Conocimiento
+2.4. Exploración en Espacios de Estados
+2.5. Reconocimiento de Patrones
+2.6. Aprendizaje
+3. Percepción Computacional
+3.1. Introducción a la Percepción Computacional
+3.2. Formación de imágenes digitales
+3.3. Preproceso
+3.4. Segmentación
+3.5. Descripción
+3.6. Reconocimiento de objetos
+4. Realidad: física, aumentada, virtual y mixta
+5. Entornos virtuales en 3D para la experimentación en Sistemas Inteligentes
+5.1. Estándares, Herramientas y Lenguajes
+5.2. Esquema de un Sistema Inteligente en un entorno virtual en 3D
+5.3. Plataformas virtuales: Open Sim y Second Life
+5.4. Unity 3D
+6. Lógica Borrosa. Representación
+6.1. Teoría de Conjuntos Borrosos
+6.2. Lógica Borrosa
+6.3. Control Borroso
+6.4. Representación del conocimiento mediante Lógica Borrosa
+7. Computación Evolutiva. Aprendizaje
+7.1. Introducción a la Computación Evolutiva
+7.2. Esquema General de un Algoritmo Evolutivo
+7.3. Tipos de Algoritmos Evolutivos
+7.4. Elementos de un Algoritmo Evolutivo
+7.5. Aprendizaje mediante Computación Evolutiva. Comportamiento típico de un Algoritmo Evolutivo
+hi=d
